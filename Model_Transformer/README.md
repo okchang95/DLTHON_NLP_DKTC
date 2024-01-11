@@ -11,6 +11,9 @@
 ### 선택 기준
 허깅페이스의 검색결과 기준으로 한국어 bert 모델중에 많이 사용하는 순으로 정했습니다.
 
+### 앙상블
+klue bert, kobigbird bert, kykim bert를 앙상블하여 더 나은 점수를 기대하였으나 92% 달성으로 앙상블의 효과가 없음을 확인하였습니다.
+
 ### 참고문헌
 - [Transformers와 Tensorflow를 활용한 BERT Fine-tuning](https://velog.io/@jaehyeong/Fine-tuning-Bert-using-Transformers-and-TensorFlow)
 - [huggingface BERT 검색결과 filter with korean](https://huggingface.co/models?pipeline_tag=fill-mask&language=ko&sort=likes&search=bert)
