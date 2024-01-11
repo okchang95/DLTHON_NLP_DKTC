@@ -28,6 +28,8 @@
 ### 리더보드 test accuracy : 
 
 ![image](https://github.com/Eunssong/DLTON_NLP_DKTC/assets/124979889/73e699bd-cc1b-4778-b88d-1897431647fa)
+
+나중에 읽어볼만한 논문: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00492-0#Sec8
 -->
 
 
