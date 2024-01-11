@@ -7,3 +7,7 @@
 - Bidirectional LSTM
 - Simple RNN
 - GRU
+
+### 리더보드 test accuracy : 
+
+![image](https://github.com/Eunssong/DLTON_NLP_DKTC/assets/124979889/73e699bd-cc1b-4778-b88d-1897431647fa)
