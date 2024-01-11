@@ -4,4 +4,6 @@
 
 사용된 딥러닝 모델은 다음과 같습니다.
 - LSTM(Long Short-Term Memory)
-- 
+- Bidirectional LSTM
+- Simple RNN
+- GRU
