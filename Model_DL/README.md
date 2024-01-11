@@ -7,20 +7,27 @@
 - Bidirectional LSTM
 - Simple RNN
 - GRU
+- (+ Augmentation)
+
+### 과적합 문제로 augmentation(random swap, deletion) 적용:
+  > RS : 문장 내 임의의 두 단어의 위치를 바꾸는 것<br>
+  > RD : 임의의 단어 삭제
+- blog : https://fish-tank.tistory.com/95
+- github : [참고한 korEDA aug github](https://github.com/catSirup/KorEDA/blob/master/README.md)
+  
+
+- 결과 :
+  
+  <img width="760" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/59639751-f26a-4f2b-8e16-44cb386a01ec">
+
+
+<!--
+<img width="300" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/ffebb1ed-9d0c-4ecc-85d8-bffd84740f67">
+
 
 ### 리더보드 test accuracy : 
 
 ![image](https://github.com/Eunssong/DLTON_NLP_DKTC/assets/124979889/73e699bd-cc1b-4778-b88d-1897431647fa)
+-->
 
-### augmentation experiment
 
-https://fish-tank.tistory.com/95
-
-[참고한 korEDA aug github](https://github.com/catSirup/KorEDA/blob/master/README.md)
-
-<img width="300" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/ffebb1ed-9d0c-4ecc-85d8-bffd84740f67">
-
-- RS : 문장 내 임의의 두 단어의 위치를 바꾸는 것
-- RD : 임의의 단어 삭제
-
-<img width="760" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/59639751-f26a-4f2b-8e16-44cb386a01ec">
