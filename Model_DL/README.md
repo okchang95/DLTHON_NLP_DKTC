@@ -11,3 +11,8 @@
 ### 리더보드 test accuracy : 
 
 ![image](https://github.com/Eunssong/DLTON_NLP_DKTC/assets/124979889/73e699bd-cc1b-4778-b88d-1897431647fa)
+
+### augmentation experiment
+[참고한 korEDA aug github](https://github.com/catSirup/KorEDA/blob/master/README.md)
+
+<img width="300" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/ffebb1ed-9d0c-4ecc-85d8-bffd84740f67">
