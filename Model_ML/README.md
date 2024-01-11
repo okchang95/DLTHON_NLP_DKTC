@@ -4,4 +4,16 @@
 
 사용된 머신러닝 모델은 다음과 같습니다.
 - SGDClassifier
-- 
+- LinearSVC
+- VotingClassifier
+- MultinomialNB
+- LogisticRegression
+- ComplementNB
+- DecisionTreeClassifier
+- RandomForestClassifier
+- GradientBoostingClassifier
+- LGBMClassifier
+- XGBClassifier
+
+이 중, SGDClassifier, LinearSVC, VotingClassifier(ensemble)이 가장 우수한 성능을 보였습니다.  
+
