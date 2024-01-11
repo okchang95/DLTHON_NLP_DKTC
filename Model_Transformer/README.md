@@ -14,6 +14,9 @@
 ### 앙상블
 klue bert, kobigbird bert, kykim bert를 앙상블하여 더 나은 점수를 기대하였으나 92% 달성으로 앙상블의 효과가 없음을 확인하였습니다.
 
+### 데이터 증강 적용
+- 사전 증강된 데이터를 활용해서 적용하였을때 val_loss, val_accuracy에서 성능향상이 보였지만 learder board 스코어상의 영향은 없었습니다.
+
 ### 참고문헌
 - [Transformers와 Tensorflow를 활용한 BERT Fine-tuning](https://velog.io/@jaehyeong/Fine-tuning-Bert-using-Transformers-and-TensorFlow)
 - [huggingface BERT 검색결과 filter with korean](https://huggingface.co/models?pipeline_tag=fill-mask&language=ko&sort=likes&search=bert)
