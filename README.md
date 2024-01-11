@@ -29,18 +29,28 @@ DKTC 데이터셋은 멀티턴 대화 형식으로 구성되어 있습니다.
 
 | Team Name                  | Accuracy Score |
 |----------------------------|----------------|
-| 바른말 고운말 simpleRNN     | 0.245          |
-| 바른말 고운말 GRU           | 0.42           |
-| 바른말 고운말 bi_LSTM       | 0.525          |
+| 바른말 고운말 simpleRNN     | 0.3            |
+| 바른말 고운말 aug_simpleRNN | 0.345          |
 | 바른말 고운말 LSTM          | 0.54           |
+| 바른말 고운말 GRU           | 0.56           |
+| 바른말 고운말 bi_LSTM       | 0.5675         |
+| 바른말 고운말 aug_GRU       | 0.6275         |
 | 바른말 고운말 aug+LSTM      | 0.6825         |
+| 바른말 고운말 aug_LSTM      | 0.7325         |
+| 바른말 고운말 aug_bi_LSTM   | 0.755          |
 | 바른말 고운말_ML2           | 0.81           |
 | 바른말 고운말_MLensemble    | 0.81           |
 | 바른말 고운말 ML            | 0.815          |
+| 바른말 고운말 aug_ML2       | 0.815          |
+| 바른말 고운말 aug_ensemble   | 0.8175         |
+| 바른말 고운말 aug_ML        | 0.82           |
 | 바른말 고운말 gpt3.5-ft     | 0.865          |
 | 바른말 고운말 klue/bert-base | 0.9            |
+| 바른말 고운말 bert augment   | 0.9125         |
+| 바른말 고운말               | 0.915          |
 | 바른말 고운말 kobigbird      | 0.915          |
 | 바른말 고운말 bert ensemble  | 0.92           |
 | 바른말 고운말 kykim/bert-kor-base | 0.9225    |
+
 
 
