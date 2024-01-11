@@ -1,6 +1,6 @@
 # [DKTC (Dataset of Korean Threatening Conversations)](https://github.com/tunib-ai/DKTC)
 ---
-DLTON에서 활용한 데이터셋은 TUNiB에서 제공된 DKTC(Dataset of Korean Threatening Conversations)입니다.   
+DLTHON에서 활용한 데이터셋은 TUNiB에서 제공된 DKTC(Dataset of Korean Threatening Conversations)입니다.   
 이 데이터셋은 멀티턴 대화 형식으로 구성되어 있으며, 총 4가지 클래스(협박 대화, 갈취 대화, 직장 내 괴롭힘 대화, 기타 괴롭힘 대화)로 세분화되어 있습니다.   
 데이터셋은 크게 3가지 파일로 구성되어 있습니다.  
 
