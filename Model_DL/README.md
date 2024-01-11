@@ -22,3 +22,5 @@ https://fish-tank.tistory.com/95
 
 - RS : 문장 내 임의의 두 단어의 위치를 바꾸는 것
 - RD : 임의의 단어 삭제
+
+<img width="760" alt="image" src="https://github.com/Eunssong/DLTHON_NLP_DKTC/assets/124979889/59639751-f26a-4f2b-8e16-44cb386a01ec">
