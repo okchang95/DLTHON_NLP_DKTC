@@ -1,4 +1,5 @@
 # DLTHON_NLP_DKTC 다중분류 프로젝트: 한국어 위협 대화 데이터셋 활용
+[ [발표 PDF](https://github.com/okchang95/DLTHON_NLP_DKTC/blob/main/DLTHON_DKTC%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_20240111.pdf) ]
 
 **DLTHON_NLP 기간: 2024년 1월 10일부터 1월 12일**   
 
